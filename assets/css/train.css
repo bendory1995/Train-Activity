@@ -1,0 +1,19 @@
+#titleHead{
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+}
+.card-header{
+    font-weight: bold;
+    font-size: 25px;
+}
+#trainCard{
+    width: 100%;
+}
+.card-header{
+    width: 100%;
+}
+
+#trainAdd{
+    width: 100%;
+}
